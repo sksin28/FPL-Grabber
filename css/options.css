@@ -1,0 +1,59 @@
+.well{
+	background-color: #0193b7;
+	color:  #f6f6f6;
+	font-weight: bold;
+}
+
+#table{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#table_body{
+	background-color: #D5D9FF;		
+}
+
+thead{
+	background-color: #DBE9F2;
+	color: #639ec8;
+}
+
+td{
+	color: black;
+	background-color: #D5D9FF;			
+	font-size: 14pt;
+	font-family: 'OpenSans';
+	text-align: center;
+}
+
+th{
+	text-align: center;
+	font-family: 'Arvo';
+	font-size: 14pt;
+}
+
+
+.heading{
+	font-size: 24pt;
+	font-family: "Lato";
+}
+
+#head{
+	font-size: 20pt;	
+	margin-left: 10%;
+	font-weight: bold;
+}
+
+#button{
+	margin-left: 10%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#description{
+	font-size: 14pt;
+	margin-left: 10%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}

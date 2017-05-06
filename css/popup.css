@@ -1,0 +1,113 @@
+body {
+//background-color: #D5D9FF;		
+  min-width:300px;
+  margin:5px;
+  overflow-x:hidden;
+  font-family:"Arvo";
+  font-size:10pt;
+  /*
+  background:url(../img/bg.jpg);
+  background-position-x:50%;
+  background-position-y:0%;
+  background-repeat:repeat-x;
+  */
+  background: #E8E8E8;
+  padding-bottom: 10px;
+  max-width: 371px;
+}
+#moreStats{
+	font-size: 12pt;
+}
+#table{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+}
+
+#input{
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+}
+
+#teamName{
+	width: 30%;
+}
+
+#team_input{
+	width: 40%;
+}
+
+#or{
+	text-align: center;
+}
+
+#enter{
+	font-family: 'Arvo';
+	font-size: 12pt;
+	border-color: black;
+	border-width: 2px;
+}
+
+#top_tables{
+	margin-left: 10%;
+
+}
+
+th{
+	text-align: center;
+
+	font-family: 'Arvo';
+	font-size: 12pt;
+}
+
+.desc{
+	font-family: 'Arvo';
+	font-size: 12pt;
+	font-weight: bold;
+	width: 50%;	
+}
+
+td{
+	font-size: 12pt;
+	font-family: 'OpenSans';
+}
+
+#heading{
+	font-size: 24pt;
+	font-family: "Lato";
+}
+#button{
+	align:center;
+	margin-left: 40%;
+	margin-right: 20%
+}
+body,html{
+min-height: 200px;
+max-height: 530px;
+  overflow-x: hidden;
+}
+#options{
+	text-align: right;
+}
+.logo{
+  float: left; width: 100%; height: 40px; position: relative; 
+  font-size: 14pt;
+	color:#439ec9; 
+	font-weight: bold;
+	margin-right: 0px;
+}
+#heading{
+	text-align: center;
+}
+h1 { font-weight: bold; font-size:10px; margin:2px 0px 6px 0px; color:#0068C4; font-family:arial }
+
+#error{
+
+	font-size: 12pt;
+	font-family: 'OpenSans';
+}
+

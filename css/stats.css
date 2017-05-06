@@ -1,0 +1,140 @@
+body{
+//	background-color: #fff2e7;
+}
+
+.well{
+	background-color: #0193b7;
+	color:  #f6f6f6;
+	font-weight: bold;
+}
+
+#table{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#table_body{
+	background-color: #D5D9FF;		
+}
+
+thead{
+	background-color: #DBE9F2;
+	color: #639ec8;
+}
+
+.description,#label{
+
+	margin-top: 2%;
+	text-align: center;
+	font-family: 'Open Sans';
+	font-size: 20pt;
+
+}
+
+#table_point,#table_overall{
+	background-color: #c3dae3;
+	width: 35%;
+	text-align: center;
+	float: left;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-top: 3%;
+}
+
+#top_tables{
+	margin-left: 10%;
+
+}
+
+label{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#select{
+    width: 20%;
+    margin: 0 auto;
+}
+
+option{
+	vertical-align:center;
+	font-size: 16pt;
+	font-family: 'OpenSans';
+	text-align: center;	
+}
+
+#compare,.compare{
+	margin-top: 3%;
+	margin-left: 20%;
+	font-family: 'Open Sans';
+	font-size: 12pt;
+}
+
+th{
+	text-align: center;
+	font-family: 'Arvo';
+	font-size: 12pt;
+}
+
+.desc{
+	font-family: 'Arvo';
+	font-size: 12pt;
+	font-weight: bold;
+	width: 50%;	
+}
+
+td{
+	font-size: 12pt;
+	font-family: 'OpenSans';
+	text-align: center;
+}
+
+#heading{
+	font-size: 24pt;
+	font-family: "Lato";
+}
+
+.chart-legend li span{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+/*body {
+  padding : 10px ;
+  
+}
+
+#exTab1 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+#exTab2 h3 {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+/* remove border radius for the tab */
+
+#exTab1 .nav-pills > li > a {
+//  border-radius: 0;
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+*/
